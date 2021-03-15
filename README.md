@@ -18,9 +18,9 @@ $ ./ScoreSoup.py # Running the script.
 
 
 
-## Use it
+## Usage
 
-Confirm with "y" if you want just the live results.
+**Confirm with "y" if you want just the live results.**
 
 Else the results of the day will be shown.
 
@@ -47,4 +47,4 @@ Allen 2021
 
 [![License: GPL 3.0 Licence](https://img.shields.io/github/license/allendema/ScoreSoup)](https://github.com/allendema/ScoreSoup/blob/main/LICENSE)
 [![github commits](https://img.shields.io/github/last-commit/allendema/ScoreSoup)](https://github.com/allendema/ScoreSoup/commits/main)
-[![Lines of Code](https://img.shields.io/tokei/lines/github/allendema/ScoreSoup?style=flat-square)](https://github.com/allendema/ScoreSoup/blob/main/SnapScrap.py)
+[![Lines of Code](https://img.shields.io/tokei/lines/github/allendema/ScoreSoup?style=flat-square)](https://github.com/allendema/ScoreSoup/blob/main/ScoreSoup.py)
