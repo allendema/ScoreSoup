@@ -35,6 +35,11 @@ Else the results of the day will be shown.
 
 
 ## Heads Up
+
+**Livescores.com - with "s" at the end is owned by "Livescore Ltd." too,
+ but uses the classic layout of the site.**
+
+
 Made by exploring Python. Inspired by similiar programms. Use at own risk.
 
 
